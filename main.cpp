@@ -29,4 +29,6 @@ int main(){
         sum2 = 0;
     }
     std::cout << n;
+    
+    return 0;
 }
